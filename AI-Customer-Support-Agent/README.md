@@ -1,4 +1,4 @@
-# 🤖 Customer Care AI Agent
+# 🤖 AI Customer Support Agent
 
 An enterprise-ready customer support automation system built with **n8n** and **Google Gemini**. This workflow demonstrates how to orchestrate autonomous AI agents to handle customer queries, generate intelligent, context-aware responses, and persist conversation state without manual intervention.
 
