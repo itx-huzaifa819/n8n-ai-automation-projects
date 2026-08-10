@@ -1,4 +1,4 @@
-# Restaurant Inventory System
+# Restaurant Inventory System Agent
 
 An AI-powered inventory management system for restaurants, built with **n8n**, **Google Gemini**, and **Airtable**. Users query inventory through natural language instead of manually searching records.
 
